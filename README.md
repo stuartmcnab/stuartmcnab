@@ -1,4 +1,4 @@
-### term:~$ stuartmcnab/readme.md
+### stuartmcnab@github:~$ readme.md
         
 Hello, friend
 
@@ -9,7 +9,8 @@ $ Working on custom JS
 $ Learning python
 
 
-### term:~$
+### stuartmcnab@github:~$
+
 <!--
 **stuartmcnab/stuartmcnab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
