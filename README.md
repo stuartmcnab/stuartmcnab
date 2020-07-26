@@ -1,5 +1,17 @@
-### Hi there 👋
+### eterm##$BKUW300PS345672: more readme.md
 
+--------------------------------------------
+
+              LEAVE ME HERE 
+          
+--------------------------------------------
+        
+Hello, friend
+
+
+
+
+eterm##$BKUW300PS345672:
 <!--
 **stuartmcnab/stuartmcnab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
