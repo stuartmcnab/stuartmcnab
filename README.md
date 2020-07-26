@@ -5,9 +5,7 @@
 I'm Stuart
 
 -  A Tech/Dev
-<br/>
 -  Working with Javascript
-<br/>
 -  Learning Python
 
 <!--
