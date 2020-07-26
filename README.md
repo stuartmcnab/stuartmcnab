@@ -9,7 +9,7 @@ I'm Stuart
 <br/>
 :  Working with Javascript
 <br/>
-:  Learning python
+:  Learning Python
 
 
 ### stuartmcnab@github:~$
