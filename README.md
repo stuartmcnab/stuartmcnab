@@ -6,9 +6,11 @@ Hello, friend
 
 I'm Stuart
 
--  A Tech/Dev
--  Working on custom JS
--  Learning python
+:~$  A Tech/Dev
+<br/>
+:~$  Working on custom JS
+<br/>
+:~$  Learning python
 
 
 ### stuartmcnab@github:~$
