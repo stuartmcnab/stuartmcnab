@@ -4,9 +4,11 @@
         
 I'm Stuart
 
--  A Tech/Dev
--  Working with Javascript
--  Learning Python
+:  A Tech/Dev
+<br/>
+:  Working with Javascript
+<br/>
+:  Learning Python
 
 <!--
 **stuartmcnab/stuartmcnab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
