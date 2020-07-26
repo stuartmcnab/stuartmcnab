@@ -4,9 +4,9 @@ Hello, friend
 
 I'm Stuart
 
--$ A Tech/Dev
--$ Working on custom JS
--$ Learning python
+-  A Tech/Dev
+-  Working on custom JS
+-  Learning python
 
 
 ### stuartmcnab@github:~$
