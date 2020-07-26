@@ -1,4 +1,4 @@
-<img align="right" alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
+<img align="right" alt="GIF" src="https://media.giphy.com/media/sFTWiBKYYWKVa/giphy.gif" />
 
 ### stuartmcnab@github:~$ readme.md
         
