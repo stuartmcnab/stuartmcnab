@@ -1,8 +1,6 @@
-### stuartmcnab@github:~$ readme.md
+### Hello, friend
 <img align="right" alt="Hello, friend" src="https://i.pinimg.com/originals/3a/11/03/3a110351d8b8078eb200145e1af3fbf0.jpg" width="300" height="auto"/>
         
-Hello, friend
-
 I'm Stuart
 
 :  A Tech/Dev
@@ -10,9 +8,6 @@ I'm Stuart
 :  Working with Javascript
 <br/>
 :  Learning Python
-
-
-### stuartmcnab@github:~$
 
 <!--
 **stuartmcnab/stuartmcnab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
