@@ -4,12 +4,12 @@ Hello, friend
 
 I'm Stuart
 
-$ Tech/Dev
+$ A Tech/Dev
 $ Working on custom JS
 $ Learning python
 
 
-### stuartmcnab@github:~$
+### stuartmcnab@github:~$
 
 <!--
 **stuartmcnab/stuartmcnab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
