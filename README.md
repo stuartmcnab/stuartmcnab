@@ -1,5 +1,6 @@
-### Hello, friend
 <img align="right" alt="Hello, friend" src="https://i.pinimg.com/originals/3a/11/03/3a110351d8b8078eb200145e1af3fbf0.jpg" width="300" height="auto"/>
+
+### Hello, friend
         
 I'm Stuart
 
