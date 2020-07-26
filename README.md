@@ -1,4 +1,4 @@
-<img align="right" alt="Hello, friend" src="https://i.pinimg.com/originals/3a/11/03/3a110351d8b8078eb200145e1af3fbf0.jpg" />
+<img align="right" alt="Hello, friend" width:"25%" src="https://i.pinimg.com/originals/3a/11/03/3a110351d8b8078eb200145e1af3fbf0.jpg" />
 
 ### stuartmcnab@github:~$ readme.md
         
