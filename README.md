@@ -1,17 +1,19 @@
-### eterm##$BKUW300PS345672: more readme.md
+### term:~$ stuartmcnab/readme.md
 
 --------------------------------------------
-
               LEAVE ME HERE 
-          
 --------------------------------------------
         
 Hello, friend
 
+I'm Stuart
+
+$ Tech/Dev
+$ Working on custom JS
+$ Learning python
 
 
-
-eterm##$BKUW300PS345672:
+### term:~$
 <!--
 **stuartmcnab/stuartmcnab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
