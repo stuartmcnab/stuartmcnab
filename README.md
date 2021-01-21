@@ -4,7 +4,7 @@
         
 I'm Stuart
 
-:   A Tech/Dev
+:   Front end dev
 <br/>
 :   Working with Javascript and Vue.js
 <br/>
