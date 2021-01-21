@@ -4,9 +4,9 @@
         
 I'm Stuart
 
-:   Front end dev
+:   Front-end Dev
 <br/>
-:   Working with Javascript and Vue.js
+:   Working with JavaScript and Vue
 <br/>
 :   Learning React
 
