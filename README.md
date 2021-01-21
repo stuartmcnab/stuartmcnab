@@ -6,9 +6,9 @@ I'm Stuart
 
 :   A Tech/Dev
 <br/>
-:   Working with Javascript
+:   Working with Javascript and Vue.js
 <br/>
-:   Learning Python
+:   Learning React
 
 <!--
 **stuartmcnab/stuartmcnab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
