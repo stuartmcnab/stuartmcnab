@@ -4,11 +4,11 @@
         
 I'm Stuart
 
-:   Front-end Dev
+:   Frontend Dev
 <br/>
-:   Working with JavaScript and Vue
-<br/>
-:   Learning React
+:   Working with JavaScript and React
+<!-- <br/>
+:   Learning React -->
 
 <!--
 **stuartmcnab/stuartmcnab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
