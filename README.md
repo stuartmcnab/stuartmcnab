@@ -6,7 +6,7 @@ I'm Stuart
 
 :   Frontend Dev
 <br/>
-:   Working with JavaScript and React
+:   Working with JavaScript, TypeScript and React
 <!-- <br/>
 :   Learning React -->
 
