@@ -4,11 +4,11 @@
         
 I'm Stuart
 
-:   Frontend Dev
+:   Front End Web Developer
 <br/>
 :   Working with JavaScript, TypeScript and React
-<!-- <br/>
-:   Learning React -->
+<br/>
+:   Learning AWS
 
 <!--
 **stuartmcnab/stuartmcnab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
