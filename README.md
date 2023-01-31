@@ -4,9 +4,9 @@
         
 I'm Stuart
 
-- 🔭 I’m currently working on establlished React codebases with TypeScript 
-- 🌱 I’m currently studying for an AWS Developer Associate certification
-- 👯 I’m looking to collaborate on React/TypeScript projects
+- 👨🏻‍💻 Working on establlished React codebases with TypeScript
+- 👩‍💻🧑‍💻 I’m looking to collaborate on React/TypeScript projects
+- 📨 You can contact me on [LinkedIn](https://www.linkedin.com/in/stuart-mcnab/) 
 
 <!--
 **stuartmcnab/stuartmcnab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
