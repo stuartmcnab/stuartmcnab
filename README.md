@@ -4,7 +4,7 @@
         
 I'm Stuart
 
-- 👨🏻‍💻 Working on establlished React codebases with TypeScript
+- 👨🏻‍💻 Working with API's to build personalised assets
 - 👩‍💻🧑‍💻 I’m looking to collaborate on React/TypeScript projects
 - 📨 You can contact me on [LinkedIn](https://www.linkedin.com/in/stuart-mcnab/) 
 
