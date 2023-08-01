@@ -5,7 +5,7 @@
 I'm Stuart
 
 - 👨🏻‍💻 Working with API's to build personalised assets
-- 👩‍💻🧑‍💻 I’m looking to collaborate on React/TypeScript projects
+- 👩‍💻🧑‍💻 I’m looking to collaborate on React, SvelteKit, or TypeScript projects
 - 📨 You can contact me on [LinkedIn](https://www.linkedin.com/in/stuart-mcnab/) 
 
 <!--
