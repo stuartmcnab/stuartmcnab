@@ -6,7 +6,7 @@ I'm Stuart
 
 - 👨🏻‍💻 Working with APIs to build personalised assets
 - 👩‍💻🧑‍💻 I’m looking to collaborate on React, SvelteKit, or TypeScript projects
-- 🎓 I am taking the Stanford Machine Learning Specialisation
+- 💹 I'm enjoying C3 and D3 data visualisation
 - 📨 You can contact me on [LinkedIn](https://www.linkedin.com/in/stuart-mcnab/) 
 
 <!--
