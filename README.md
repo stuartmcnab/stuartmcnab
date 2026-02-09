@@ -4,9 +4,8 @@
         
 I'm Stuart
 
-- 👨🏻‍💻 Working with APIs to build personalised assets
-- 👩‍💻🧑‍💻 I’m looking to collaborate on React, SvelteKit, or TypeScript projects
-- 💹 I'm enjoying C3 and D3 data visualisation
+- 👨🏻‍💻  Working with websockets and MQTT to communicate realtime data that matters
+- ⌞ ⌝ I’m looking to collaborate on projects that expand my full stack skills
 - 📨 You can contact me on [LinkedIn](https://www.linkedin.com/in/stuart-mcnab/) 
 
 <!--
