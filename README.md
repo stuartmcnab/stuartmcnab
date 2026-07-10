@@ -4,13 +4,14 @@
         
 I'm Stuart
 
-- 👨🏻‍💻  Working with industrial IOT, HMI, and MQTT to communicate realtime data that matters
 - 📨 You can contact me on [LinkedIn](https://www.linkedin.com/in/stuart-mcnab/) 
 
 <!--
 **stuartmcnab/stuartmcnab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+
+- 👨🏻‍💻 Working with industrial IOT, HMI, and MQTT to communicate realtime data that matters
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
