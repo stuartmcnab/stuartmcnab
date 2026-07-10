@@ -4,8 +4,7 @@
         
 I'm Stuart
 
-- 👨🏻‍💻  Working with websockets and MQTT to communicate realtime data that matters
-- ⌞ ⌝ I’m looking to collaborate on projects that expand my full stack skills
+- 👨🏻‍💻  Working with industrial IOT, HMI, and MQTT to communicate realtime data that matters
 - 📨 You can contact me on [LinkedIn](https://www.linkedin.com/in/stuart-mcnab/) 
 
 <!--
